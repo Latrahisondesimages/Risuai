@@ -19,6 +19,11 @@
     ],
     "targets": ["deb", "rpm", "appimage", "nsis", "app", "dmg"],
     "createUpdaterArtifacts": true,
+    "windows": {
+      "webviewInstallMode": {
+        "type": "offlineInstaller"
+      }
+    },
     "fileAssociations": [
       {
         "ext": [
