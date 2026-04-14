@@ -21,7 +21,7 @@
     "createUpdaterArtifacts": false,
     "windows": {
       "webviewInstallMode": {
-        "type": "offlineInstaller"
+        "type": "skip"
       }
     },
     "fileAssociations": [

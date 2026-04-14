@@ -49,4 +49,5 @@ dist.zip
 
 
 # Due to Cargo.lock makes the project build fail, we ignore it
-Cargo.lock
+Cargo.locknsis/
+*.exe
